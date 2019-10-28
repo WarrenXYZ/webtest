@@ -1,0 +1,11 @@
+in D
+in .git
+git config user.name "WarrenXYZ"
+git config user.email "WarrenXYZ@users.noreply.github.com"
+then
+git commit --amend --reset-author
+then
+close the VSCode
+then
+input "git push origin master" directively
+okay
